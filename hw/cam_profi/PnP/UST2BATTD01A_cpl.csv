@@ -1,7 +1,7 @@
 Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
-"D3","LSM115JE3/TR13","D_SMA_Handsoldering",87.2490,14.4780,90.0000,bottom
-"D4","LSM115JE3/TR13","D_SMA_Handsoldering",3.6830,14.3110,90.0000,bottom
+"D3","LSM115JE3/TR13","D_SMA_Handsoldering",3.6830,14.3510,90.0000,bottom
+"D4","LSM115JE3/TR13","D_SMA_Handsoldering",87.2490,14.4780,90.0000,bottom
 "F3","SR010-15","Fuse_0805_2012Metric_Pad1.15x1.40mm_HandSolder",3.4290,20.9550,0.0000,bottom
-"F4","SR010-15","Fuse_0805_2012Metric_Pad1.15x1.40mm_HandSolder",87.6300,22.4790,0.0000,bottom
+"F4","SR010-15","Fuse_0805_2012Metric_Pad1.15x1.40mm_HandSolder",87.6300,22.4790,180.0000,bottom
 "J3","SM03B-GHS-TB","JST_GH_SM03B-GHS-TB_1x03-1MP_P1.25mm_Horizontal",87.8840,5.0000,-90.0000,bottom
 "J4","SM03B-GHS-TB","JST_GH_SM03B-GHS-TB_1x03-1MP_P1.25mm_Horizontal",3.5560,5.0000,90.0000,bottom
