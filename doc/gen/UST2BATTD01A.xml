@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>/github/workspace/hw/sch_pcb/UST2BATTD01A.kicad_sch</source>
+    <date>Mon Jul 18 09:09:11 2022</date>
+    <tool>Eeschema 6.0.4-6f826c9f35~116~ubuntu20.04.1</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title>SIPM02C</title>
+        <company>Mlab www.mlab.cz</company>
+        <rev/>
+        <date>2022-04-02</date>
+        <source>UST2BATTD01A.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value="Silicon photomultiplier interface module"/>
+        <comment number="3" value="nickname &lt;email@example.com&gt;"/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="BT1">
+      <value>BX0037</value>
+      <footprint>Mlab_Batery:BX0037</footprint>
+      <fields>
+        <field name="UST_ID">5c70984412875079b91f87ed</field>
+      </fields>
+      <libsource lib="Device" part="Battery_Cell" description="Single-cell battery"/>
+      <property name="UST_ID" value="5c70984412875079b91f87ed"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="UST2BATTD01A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1ba339fd-3eed-4093-adef-1f8b6939e3c2</tstamps>
+    </comp>
+    <comp ref="BT2">
+      <value>BX0037</value>
+      <footprint>Mlab_Batery:BX0037</footprint>
+      <fields>
+        <field name="UST_ID">5c70984412875079b91f87ed</field>
+      </fields>
+      <libsource lib="Device" part="Battery_Cell" description="Single-cell battery"/>
+      <property name="UST_ID" value="5c70984412875079b91f87ed"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="UST2BATTD01A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c8b4a350-9c52-4650-ad89-46f74e46d77d</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>LSM115JE3/TR13</value>
+      <footprint>Diode_SMD:D_SMA_Handsoldering</footprint>
+      <libsource lib="Device" part="D_Schottky" description="Schottky diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="UST2BATTD01A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>01b8be9d-07b4-4ed5-be0d-c2f1fdf5d66a</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>LSM115JE3/TR13</value>
+      <footprint>Diode_SMD:D_SMA_Handsoldering</footprint>
+      <libsource lib="Device" part="D_Schottky" description="Schottky diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="UST2BATTD01A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2967be33-cbef-4300-bd67-95757689d231</tstamps>
+    </comp>
+    <comp ref="D3">
+      <value>LSM115JE3/TR13</value>
+      <footprint>Diode_SMD:D_SMA_Handsoldering</footprint>
+      <libsource lib="Device" part="D_Schottky" description="Schottky diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="UST2BATTD01A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e724bdc2-e9d9-497d-9021-c88dc17e7eb7</tstamps>
+    </comp>
+    <comp ref="D4">
+      <value>LSM115JE3/TR13</value>
+      <footprint>Diode_SMD:D_SMA_Handsoldering</footprint>
+      <libsource lib="Device" part="D_Schottky" description="Schottky diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="UST2BATTD01A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>649c4bdc-bf80-48bc-990b-52d2af46d0aa</tstamps>
+    </comp>
+    <comp ref="F1">
+      <value>SR010-15</value>
+      <footprint>Fuse:Fuse_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="UST_ID">5cc331a7128750448e54e8fa</field>
+      </fields>
+      <libsource lib="Device" part="Polyfuse" description="Resettable fuse, polymeric positive temperature coefficient"/>
+      <property name="UST_ID" value="5cc331a7128750448e54e8fa"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="UST2BATTD01A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0b739a5d-c787-4f6f-8edd-9626528c59c7</tstamps>
+    </comp>
+    <comp ref="F2">
+      <value>SR010-15</value>
+      <footprint>Fuse:Fuse_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="UST_ID">5cc331a7128750448e54e8fa</field>
+      </fields>
+      <libsource lib="Device" part="Polyfuse" description="Resettable fuse, polymeric positive temperature coefficient"/>
+      <property name="UST_ID" value="5cc331a7128750448e54e8fa"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="UST2BATTD01A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5bf11809-fe1e-4cb5-9b9f-f054f7516f86</tstamps>
+    </comp>
+    <comp ref="F3">
+      <value>SR010-15</value>
+      <footprint>Fuse:Fuse_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="UST_ID">5cc331a7128750448e54e8fa</field>
+      </fields>
+      <libsource lib="Device" part="Polyfuse" description="Resettable fuse, polymeric positive temperature coefficient"/>
+      <property name="UST_ID" value="5cc331a7128750448e54e8fa"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="UST2BATTD01A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4c674faa-e35d-4f3d-885d-cd5c91ddbbe3</tstamps>
+    </comp>
+    <comp ref="F4">
+      <value>SR010-15</value>
+      <footprint>Fuse:Fuse_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="UST_ID">5cc331a7128750448e54e8fa</field>
+      </fields>
+      <libsource lib="Device" part="Polyfuse" description="Resettable fuse, polymeric positive temperature coefficient"/>
+      <property name="UST_ID" value="5cc331a7128750448e54e8fa"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="UST2BATTD01A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>744c0db2-308b-4f47-8fe7-cf1e6ee68a7c</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>SM03B-GHS-TB</value>
+      <footprint>Connector_JST:JST_GH_SM03B-GHS-TB_1x03-1MP_P1.25mm_Horizontal</footprint>
+      <fields>
+        <field name="UST_ID">612880e51287500165a978de</field>
+      </fields>
+      <libsource lib="MLAB_CONNECTORS_JST" part="SM03B-GHS-TB" description=""/>
+      <property name="UST_ID" value="612880e51287500165a978de"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="UST2BATTD01A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5c4bfe37-66a9-4d2b-9145-e12e6658d7bf</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>SM03B-GHS-TB</value>
+      <footprint>Connector_JST:JST_GH_SM03B-GHS-TB_1x03-1MP_P1.25mm_Horizontal</footprint>
+      <fields>
+        <field name="UST_ID">612880e51287500165a978de</field>
+      </fields>
+      <libsource lib="MLAB_CONNECTORS_JST" part="SM03B-GHS-TB" description=""/>
+      <property name="UST_ID" value="612880e51287500165a978de"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="UST2BATTD01A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3c3d1cff-d7a5-41ff-8ef3-47cebd2da461</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value>SM03B-GHS-TB</value>
+      <footprint>Connector_JST:JST_GH_SM03B-GHS-TB_1x03-1MP_P1.25mm_Horizontal</footprint>
+      <fields>
+        <field name="UST_ID">612880e51287500165a978de</field>
+      </fields>
+      <libsource lib="MLAB_CONNECTORS_JST" part="SM03B-GHS-TB" description=""/>
+      <property name="UST_ID" value="612880e51287500165a978de"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="UST2BATTD01A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a3e13c46-b711-4b77-b3ef-dc858bdd8395</tstamps>
+    </comp>
+    <comp ref="J4">
+      <value>SM03B-GHS-TB</value>
+      <footprint>Connector_JST:JST_GH_SM03B-GHS-TB_1x03-1MP_P1.25mm_Horizontal</footprint>
+      <fields>
+        <field name="UST_ID">612880e51287500165a978de</field>
+      </fields>
+      <libsource lib="MLAB_CONNECTORS_JST" part="SM03B-GHS-TB" description=""/>
+      <property name="UST_ID" value="612880e51287500165a978de"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="UST2BATTD01A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e952bdc2-ede5-4469-aa37-15b3dd3092cf</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Device" part="Battery_Cell">
+      <description>Single-cell battery</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">BT</field>
+        <field name="Value">Battery_Cell</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="+" type="passive"/>
+        <pin num="2" name="-" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="D_Schottky">
+      <description>Schottky diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TO-???*</fp>
+        <fp>*_Diode_*</fp>
+        <fp>*SingleDiode*</fp>
+        <fp>D_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D_Schottky</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Polyfuse">
+      <description>Resettable fuse, polymeric positive temperature coefficient</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>*polyfuse*</fp>
+        <fp>*PTC*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">F</field>
+        <field name="Value">Polyfuse</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="MLAB_CONNECTORS_JST" part="SM03B-GHS-TB">
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">SM03B-GHS-TB</field>
+        <field name="Footprint">Connector_JST:JST_GH_SM03B-GHS-TB_1x03-1MP_P1.25mm_Horizontal</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="input"/>
+        <pin num="2" name="" type="input"/>
+        <pin num="3" name="" type="input"/>
+        <pin num="MP" name="" type="input"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Device">
+      <uri>/usr/share/kicad/symbols//Device.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="GND">
+      <node ref="BT1" pin="2" pinfunction="-" pintype="passive"/>
+      <node ref="BT2" pin="2" pinfunction="-" pintype="passive"/>
+      <node ref="J1" pin="1" pintype="input"/>
+      <node ref="J1" pin="3" pintype="input"/>
+      <node ref="J1" pin="MP" pintype="input"/>
+      <node ref="J2" pin="1" pintype="input"/>
+      <node ref="J2" pin="3" pintype="input"/>
+      <node ref="J2" pin="MP" pintype="input"/>
+      <node ref="J3" pin="1" pintype="input"/>
+      <node ref="J3" pin="3" pintype="input"/>
+      <node ref="J3" pin="MP" pintype="input"/>
+      <node ref="J4" pin="1" pintype="input"/>
+      <node ref="J4" pin="3" pintype="input"/>
+      <node ref="J4" pin="MP" pintype="input"/>
+    </net>
+    <net code="2" name="Net-(BT1-Pad1)">
+      <node ref="BT1" pin="1" pinfunction="+" pintype="passive"/>
+      <node ref="F1" pin="2" pintype="passive"/>
+      <node ref="F3" pin="2" pintype="passive"/>
+    </net>
+    <net code="3" name="Net-(BT2-Pad1)">
+      <node ref="BT2" pin="1" pinfunction="+" pintype="passive"/>
+      <node ref="F2" pin="2" pintype="passive"/>
+      <node ref="F4" pin="2" pintype="passive"/>
+    </net>
+    <net code="4" name="Net-(D1-Pad1)">
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D2" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D3" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D4" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="J1" pin="2" pintype="input"/>
+      <node ref="J2" pin="2" pintype="input"/>
+      <node ref="J3" pin="2" pintype="input"/>
+      <node ref="J4" pin="2" pintype="input"/>
+    </net>
+    <net code="5" name="Net-(D1-Pad2)">
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="F1" pin="1" pintype="passive"/>
+    </net>
+    <net code="6" name="Net-(D2-Pad2)">
+      <node ref="D2" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="F2" pin="1" pintype="passive"/>
+    </net>
+    <net code="7" name="Net-(D3-Pad2)">
+      <node ref="D3" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="F3" pin="1" pintype="passive"/>
+    </net>
+    <net code="8" name="Net-(D4-Pad2)">
+      <node ref="D4" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="F4" pin="1" pintype="passive"/>
+    </net>
+  </nets>
+</export>
